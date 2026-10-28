@@ -1,0 +1,6 @@
+{
+  "name": "SpendSense",
+  "description": "SpendSense — AI-Powered Smart Expense Tracker with modern personal budgeting, category analytics, recurring subscriptions, and conversational financial advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

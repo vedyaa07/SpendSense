@@ -1,0 +1,290 @@
+---
+name: SpendSense System
+colors:
+  surface: '#faf9fd'
+  surface-dim: '#dbd9dd'
+  surface-bright: '#faf9fd'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f5f3f7'
+  surface-container: '#efedf1'
+  surface-container-high: '#e9e7ec'
+  surface-container-highest: '#e3e2e6'
+  on-surface: '#1b1b1f'
+  on-surface-variant: '#414844'
+  inverse-surface: '#2f3034'
+  inverse-on-surface: '#f2f0f4'
+  outline: '#717973'
+  outline-variant: '#c1c8c2'
+  surface-tint: '#3f6653'
+  primary: '#012d1d'
+  on-primary: '#ffffff'
+  primary-container: '#1b4332'
+  on-primary-container: '#86af99'
+  inverse-primary: '#a5d0b9'
+  secondary: '#2c694e'
+  on-secondary: '#ffffff'
+  secondary-container: '#aeeecb'
+  on-secondary-container: '#316e52'
+  tertiary: '#3e1e00'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#5e3000'
+  on-tertiary-container: '#f48c24'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#c1ecd4'
+  primary-fixed-dim: '#a5d0b9'
+  on-primary-fixed: '#002114'
+  on-primary-fixed-variant: '#274e3d'
+  secondary-fixed: '#b1f0ce'
+  secondary-fixed-dim: '#95d4b3'
+  on-secondary-fixed: '#002114'
+  on-secondary-fixed-variant: '#0e5138'
+  tertiary-fixed: '#ffdcc3'
+  tertiary-fixed-dim: '#ffb77d'
+  on-tertiary-fixed: '#2f1500'
+  on-tertiary-fixed-variant: '#6e3900'
+  background: '#faf9fd'
+  on-background: '#1b1b1f'
+  surface-variant: '#e3e2e6'
+typography:
+  headline-xl:
+    fontFamily: Geist
+    fontSize: 44px
+    fontWeight: '600'
+    lineHeight: 52px
+    letterSpacing: -0.03em
+  headline-xl-mobile:
+    fontFamily: Geist
+    fontSize: 32px
+    fontWeight: '600'
+    lineHeight: 38px
+    letterSpacing: -0.025em
+  headline-lg:
+    fontFamily: Geist
+    fontSize: 32px
+    fontWeight: '600'
+    lineHeight: 40px
+    letterSpacing: -0.02em
+  headline-lg-mobile:
+    fontFamily: Geist
+    fontSize: 26px
+    fontWeight: '600'
+    lineHeight: 34px
+    letterSpacing: -0.02em
+  headline-md:
+    fontFamily: Geist
+    fontSize: 24px
+    fontWeight: '500'
+    lineHeight: 32px
+    letterSpacing: -0.015em
+  headline-sm:
+    fontFamily: Geist
+    fontSize: 20px
+    fontWeight: '500'
+    lineHeight: 28px
+    letterSpacing: -0.01em
+  body-lg:
+    fontFamily: Geist
+    fontSize: 18px
+    fontWeight: '400'
+    lineHeight: 28px
+    letterSpacing: -0.005em
+  body-md:
+    fontFamily: Geist
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 24px
+    letterSpacing: 0em
+  body-sm:
+    fontFamily: Geist
+    fontSize: 13px
+    fontWeight: '400'
+    lineHeight: 20px
+    letterSpacing: 0em
+  label-lg:
+    fontFamily: Geist
+    fontSize: 14px
+    fontWeight: '500'
+    lineHeight: 20px
+    letterSpacing: 0.01em
+  label-md:
+    fontFamily: Geist
+    fontSize: 12px
+    fontWeight: '500'
+    lineHeight: 16px
+    letterSpacing: 0.02em
+  label-sm:
+    fontFamily: Geist
+    fontSize: 11px
+    fontWeight: '600'
+    lineHeight: 14px
+    letterSpacing: 0.04em
+  numeric-hero:
+    fontFamily: Geist
+    fontSize: 48px
+    fontWeight: '600'
+    lineHeight: 56px
+    letterSpacing: -0.03em
+  numeric-hero-mobile:
+    fontFamily: Geist
+    fontSize: 36px
+    fontWeight: '600'
+    lineHeight: 44px
+    letterSpacing: -0.025em
+  numeric-table:
+    fontFamily: Geist
+    fontSize: 14px
+    fontWeight: '500'
+    lineHeight: 20px
+    letterSpacing: 0em
+rounded:
+  sm: 0.125rem
+  DEFAULT: 0.25rem
+  md: 0.375rem
+  lg: 0.5rem
+  xl: 0.75rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-mobile: 0.75rem
+  margin: 2.5rem
+  margin-mobile: 1rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+
+This design system combines modern minimalism with high-end editorial clarity tailored for intelligent personal finance and wealth management. Rooted in restraint, it prioritizes legibility, financial confidence, and structural precision over ornamentation.
+
+### Personality & Emotional Resonance
+- **Trustworthy & Authoritative:** The interface conveys institutional stability without corporate stiffness. Financial decisions require immediate clarity, zero ambiguity, and quiet authority.
+- **Calm & Dispassionate:** Money management frequently induces cognitive strain. The system uses subdued warm tones, disciplined contrast, and structured breathing room to maintain a grounding, orderly presence.
+- **Editorial & Discerning:** Drawing cues from broadsheet financial publications and high-end ledger systems, it leverages crisp hierarchy, deliberate typography scales, tabular numeral rhythm, and purposeful micro-copy.
+
+### Visual Style
+- **Aesthetic Direction:** Editorial Minimalist with functional tabular density.
+- **Surface Treatment:** Matte, tactile planes built on warm stone and paper backgrounds. Strictly avoids saturated glows, heavy skeuomorphism, and decorative blurs.
+- **Structural Framing:** Hairline structural borders (`1px`), clean grid boundaries, disciplined vertical rhythms, and purposeful cards with subtle tactile delineations.
+
+## Colors
+
+The palette balances warm organic stone neutrals against an understated, authoritative forest green base. Functional semantic signals are calibrated for immediate financial feedback without causing visual alarms.
+
+### Primary & Brand Accents
+- **Primary Accent (`#1B4332`):** Deep Forest Green. Used for primary interactions, high-level ledger headers, active selected states, and brand trust marks.
+- **Secondary Accent (`#2D6A4F`):** Muted Forest Green. Used for secondary interactive states, active outline rings, badge accents, and hover elevations.
+
+### Semantic Status Colors
+- **Positive / Income (`#10B981` / `#2E7D32`):** Inflow, portfolio yield, balanced budgets, and successful transactions.
+- **Negative / Overspending (`#EF4444` / `#C62828`):** Outflow deviations, exceeded limits, credit charges, and system alerts.
+- **Warning / Pending (`#D97706`):** Approaching budget thresholds, pending clearings, and account verifications.
+- **Informational / Neutral Metric (`#475569`):** Neutral benchmarks, static interest indicators, and categorical tags.
+
+### Neutrals & Background Surfaces
+- **App Canvas (`#FBFBFA`):** Warm off-white base surface, replicating archival ledger paper.
+- **Elevated Canvas / Secondary Surface (`#F4F4F2`):** Cool light slate stone for grouping containers, sidebars, and input surface backdrops.
+- **Card Surface (`#FFFFFF`):** Pure light surface reserved for actionable cards, modals, and isolated content blocks.
+- **Text Primary (`#121316`):** Deep charcoal/near-black for primary headlines, critical data, and key numbers.
+- **Text Secondary (`#52565E`):** Balanced mid-charcoal for subtitles, contextual labels, and metadata.
+- **Text Tertiary / Muted (`#8A909A`):** Captions, timestamps, disabled indicators, and currency affix notations.
+- **Border / Hairline Dividers (`#E2E4E0`):** Subtle neutral stone border defining card bounds, cell grids, and rules.
+
+## Typography
+
+The typography centers on **Geist**, leveraging its geometric neutrality and technical execution. The typographic approach focuses on data density, vertical baseline discipline, and financial clarity.
+
+### Financial Numeral Execution
+- All numeric representations must enforce tabular figures via CSS (`font-variant-numeric: tabular-nums;` or `font-feature-settings: "tnum" 1;`).
+- Currency indicators (such as INR `₹`) must be positioned immediately flush before the integer or spaced with a fixed narrow non-breaking space. Decimals should render identically in weight to integers, while trailing decimal zeroes must remain visible for currency accuracy (`₹24,500.00`).
+
+### Editorial Hierarchy Rules
+- **Large Balances & Stats (`numeric-hero`):** Designed for hero net worth, monthly spend summaries, and overarching account values.
+- **Section Headers (`headline-sm`, `headline-md`):** Understated, using medium weights with negative letter-spacing for refined, editorial punch.
+- **Table & Ledger Rows (`numeric-table`, `body-sm`):** Snug line-heights calibrated to sit aligned with border-ruled table layouts.
+
+## Layout & Spacing
+
+The layout model emphasizes purposeful whitespace and structured column divisions, evoking the balance of editorial financial broadsheets.
+
+### Grid & Breakpoint Systems
+- **Desktop (1200px+):** 12-column fluid grid. Outer section margin: `margin` (`2.5rem`). Column gutters: `gutter` (`1.5rem`). Max-width constrained to `1360px` for optimal data scan-line lengths.
+- **Tablet (768px – 1199px):** 8-column grid. Outer margin: `1.5rem`. Column gutters: `1rem`. Secondary analytical modules collapse beneath primary balance summaries.
+- **Mobile (Below 768px):** 4-column layout. Outer canvas margin: `margin-mobile` (`1rem`). Gutter: `gutter-mobile` (`0.75rem`). Data displays shift from multi-column tables to stacked ledger transaction rows.
+
+### Spacing Principles
+- **Micro Rhythms (`space-xs` to `space-sm`):** Used between label-and-value relationships, icons and text pairs, and inline badges.
+- **Component Breathing Room (`space-md` to `space-lg`):** Internal padding for cards, financial widgets, and interactive panels.
+- **Structural Division (`space-xl`):** Vertical separation between macro sections (e.g., Cashflow Breakdown vs. Transaction Stream).
+
+## Elevation & Depth
+
+This design system rejects heavy, blurry drop shadows and plastic layered surfaces. Depth is established through structural plane layering and hairline stone borders.
+
+### Surface Tiers & Tonal Stacking
+- **Base Canvas (Level 0):** `#FBFBFA`. The broad foundational layer across the application.
+- **Container / Grouping Surface (Level 1):** `#F4F4F2`. Inset blocks, summary ribbons, table header bars, and utility rails.
+- **Card & Active Panels (Level 2):** `#FFFFFF`. White cards sit atop Level 0 or Level 1, framed by a crisp `1px` border of `#E2E4E0`.
+
+### Outlines & Border Treatment
+- Border thickness is strictly `1px`.
+- Dividers between table rows or ledger items utilize `#E2E4E0` with zero blur or drop shadow.
+- Focused states employ a double ring: a `2px` crisp border in forest green (`#1B4332`) with a `2px` white offset ring.
+
+### Subtle Elevation Overlays
+- Floating dialogs, dropdowns, and date pickers use a precise, tight atmospheric shadow: `0 4px 12px -2px rgba(18, 19, 22, 0.06), 0 1px 3px 0 rgba(18, 19, 22, 0.04)`.
+- Cards under normal conditions possess no drop shadow; their perimeter is articulated entirely by `#E2E4E0`.
+
+## Shapes
+
+The shape system utilizes soft, controlled geometry (`roundedness: 1`), creating an architectural, purposeful aesthetic that aligns with technical and financial data.
+
+### Corner Radius Mapping
+- **Base Controls & Inputs (`rounded`):** `0.25rem` (4px). Checkboxes, badge tags, table row selector states, text inputs, and standard buttons.
+- **Structural Cards & Panels (`rounded-lg`):** `0.5rem` (8px). Analytical cards, monthly summary boxes, dialog boxes, and floating sheets.
+- **Large Modals & Overlay Drawers (`rounded-xl`):** `0.75rem` (12px). Full transaction detail drawers and modal takeovers.
+- **Strictly Square (`rounded-none`):** Matrix grids, ledger rows, tab indicators, and progress bars retain crisp `0px` edges for clean horizontal alignment.
+
+## Components
+
+### Buttons
+- **Primary:** Background `#1B4332`, text `#FFFFFF`, border none, radius `0.25rem`. Hover state transitions to `#2D6A4F`. Active state dims to `#143326`. Font weight is medium (`label-lg`), with generous horizontal padding (`1.25rem`) and compact vertical padding (`0.625rem`).
+- **Secondary / Outline:** Background `transparent`, text `#121316`, border `1px solid #E2E4E0`. Hover state transitions to background `#F4F4F2`.
+- **Tertiary / Ghost:** Background `transparent`, text `#52565E`. Hover applies text `#121316` on `#F4F4F2`.
+- **Destructive:** Background `transparent`, border `1px solid #EF4444`, text `#C62828`. Hover adopts background `#FEF2F2`.
+
+### Cards & Analytical Panels
+- White background (`#FFFFFF`) framed with `1px solid #E2E4E0`. Padding defaults to `space-lg` (`1.5rem`).
+- No surface shadows. Section headings inside cards sit top-left with category subheadings in `label-sm` uppercase muted stone (`#8A909A`).
+- KPI values inside cards use tabular figures in `numeric-hero` or `headline-lg`, with inline metric trend pills.
+
+### Chips & Semantic Badges
+- Compact height (`24px`), horizontal padding `0.5rem`, border radius `0.25rem`.
+- **Positive (Income / Savings):** Background `#ECFDF5`, text `#1B4332`, border `1px solid #A7F3D0`.
+- **Negative (Expense / Debt):** Background `#FEF2F2`, text `#991B1B`, border `1px solid #FECACA`.
+- **Warning (Over Budget):** Background `#FFFBEB`, text `#92400E`, border `1px solid #FDE68A`.
+- **Category Badge:** Background `#F4F4F2`, text `#121316`, border `1px solid #E2E4E0`.
+
+### Data Tables & Transaction Ledgers
+- Table headers: Background `#F4F4F2`, border bottom `1px solid #E2E4E0`, text in uppercase `label-sm`, letter spacing `0.04em`.
+- Table rows: Background `#FFFFFF`, height `48px`, border bottom `1px solid #E2E4E0`. Hover alters background to `#FBFBFA`.
+- Numeral alignments: Financial values, rates, and date stamps are strictly right-aligned using tabular figures. Category descriptions and merchant titles are left-aligned.
+
+### Input Fields & Controls
+- Input heights: `40px`. Background `#FFFFFF`, border `1px solid #E2E4E0`, radius `0.25rem`. Text `body-md` in `#121316`.
+- Focus state: `1px solid #1B4332` with an ambient zero-blur offset shadow (`box-shadow: 0 0 0 1px #1B4332;`).
+- Currency input: Affix icon `₹` embedded as a non-editable, muted (`#8A909A`) prefix inside the input field.
+
+### Checkboxes & Radio Controls
+- Size: `16px x 16px`. Radius `2px` for checkboxes, circular for radios.
+- Unchecked: White background with `1.5px solid #D1D5DB`.
+- Checked: Deep forest green `#1B4332` with a white checkmark icon or center dot.
+
+### Specialized Financial Components
+- **Budget Depletion Gauge:** Minimal `4px` tall linear horizontal track with a stone background (`#E2E4E0`). The filled progress bar is muted forest green (`#2D6A4F`), turning to amber (`#D97706`) at 85% capacity and crimson (`#EF4444`) when overdrawn.
+- **Metric Differential Ribbon:** Inline comparative widget indicating delta against historical periods (e.g., `+12.4% vs last month`), displaying a strict `12px` line arrow icon (`↑` / `↓`).
